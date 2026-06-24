@@ -1,0 +1,60 @@
+{
+  "project_title": "NUTN CSIE 60-second promotional video",
+  "visual_style": "現代科技感、流暢剪輯、網路公開授權素材與自製動態文字結合",
+  "recommended_resolution": "1080p (1920x1080), 30fps",
+  "production_policy": "完全採用零付費公開授權素材，不進行實地拍攝，嚴格落實素材來源標記",
+  "final_scenes": [
+    {
+      "scene_id": 1,
+      "time_range": "0-5",
+      "shot_type": "特寫到中景 (Close-up to Medium Shot)",
+      "visual_description": "使用 Pexels/Pixabay 免費科技素材：快速切換雙手在鍵盤上敲擊程式碼的特寫，接著切換到開發板上 LED 燈閃爍的動態影片。",
+      "asset_source_action": "下載公開授權之 coding 與 electronics 類別短片",
+      "onscreen_text": "用程式定義未來"
+    },
+    {
+      "scene_id": 2,
+      "time_range": "5-15",
+      "shot_type": "廣角到中景 (Wide Shot to Medium Shot)",
+      "visual_description": "使用國立臺南大學資工系官方網站公開之系館外觀照片（標註來源），透過 Canva 製作成具有微移位（Ken Burns 效果）的動態畫面，隨後切換至學生走入乾淨明亮教室的免費庫存影片。",
+      "asset_source_action": "引用官方公開系館照片（註明出處）+ 下載公開之 campus 類別影片",
+      "onscreen_text": "歡迎來到南大資工"
+    },
+    {
+      "scene_id": 3,
+      "time_range": "15-30",
+      "shot_type": "中景到特寫 (Medium Shot to Close-up)",
+      "visual_description": "使用網路免費素材：學生坐在電腦前操作數據圖表或影像處理軟體的側寫。畫面穿插 AI 模型訓練介面的科技感動態 B-roll。",
+      "asset_source_action": "下載公開授權之 data science 與 AI workspace 類別短片",
+      "onscreen_text": "涵蓋AI、大數據、物聯網、影像處理"
+    },
+    {
+      "scene_id": 4,
+      "time_range": "30-45",
+      "shot_type": "雙人/三人中景 (Group Medium Shot)",
+      "visual_description": "使用網路免費素材：幾位年輕人在白板前激烈討論、指點螢幕，展現同儕團隊合作與溝通交流的畫面。",
+      "asset_source_action": "下載公開授權之 students discussion 與 team work 類別短片",
+      "onscreen_text": "核心專題實作與團隊合作"
+    },
+    {
+      "scene_id": 5,
+      "time_range": "45-55",
+      "shot_type": "移動中景 (Tracking Medium Shot)",
+      "visual_description": "使用網路免費素材：鏡頭穿過溫馨的共同工作室，拍到同儕之間輕鬆討論報告、相視而笑的溫暖氛圍。",
+      "asset_source_action": "下載公開授權之 happy study space 類別短片",
+      "onscreen_text": "實驗室溫馨氛圍與跨域討論"
+    },
+    {
+      "scene_id": 6,
+      "time_range": "55-60",
+      "shot_type": "定格全景 (Static Full Shot)",
+      "visual_description": "使用 Canva 製作動態結尾畫面，背景為正向的高校生活意象，畫面最後帶出『國立臺南大學資訊工程學系』正式官方文字標題與網址，並在下方以小字顯示素材授權聲明。",
+      "asset_source_action": "純文字與圖形排版（取代未授權之官方Logo），加入版權聲明文字",
+      "onscreen_text": "國立臺南大學資訊工程學系 期待你的加入"
+    }
+  ],
+  "final_edit_checklist": [
+    "影片長度總長必須介於 55 至 65 秒之間",
+    "片尾或說明欄必須包含 asset_sources.md 內的完整素材授權網址"
+  ]
+}
