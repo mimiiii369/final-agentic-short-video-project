@@ -1,0 +1,18 @@
+{
+  "project_title": "NUTN CSIE 60-second promotional video",
+  "review_status": "Conditional Approved (條件式通過)",
+  "reviewer_metrics": {
+    "target_length_check": "PASS (總長規劃60秒，符合55-65秒規範)",
+    "fact_check": "PASS (旁白文案聚焦於AI、物聯網、大數據等現有系所特色，無虛構誇大)",
+    "copyright_risk": "WARNING (團隊決定不實地拍攝，改由網路公開授權素材與官方公開圖片替代)",
+    "portrait_rights_risk": "PASS (因無實地拍攝路徑，不涉及未經同意之同儕或師生肖像權)"
+  },
+  "revision_requests": [
+    {
+      "request_id": "REV_001",
+      "agent_target": "Finalizer Agent",
+      "issue_description": "由於改用網路公開素材，必須嚴格控管素材來源授權，避免版權侵害。",
+      "suggested_action": "請 Finalizer Agent 在最終腳本中，強制加入『素材來源與授權聲明表 (asset_sources.md)』的檢核項目，並在影片片尾或說明欄完整揭露。"
+    }
+  ]
+}
