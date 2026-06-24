@@ -1,0 +1,50 @@
+{
+  "project_title": "NUTN CSIE 60-second promotional video",
+  "target_audience": ["高中生", "大一新生", "家長"],
+  "video_length_seconds": 60,
+  "voice_tone": "活力、科技感、正向且具啟發性",
+  "script_scenes": [
+    {
+      "scene_id": 1,
+      "time_range": "0-5",
+      "purpose": "Opening Hook",
+      "narration": "當未來的代碼遇上物聯網的浪潮，你，準備好寫下自己的篇章了嗎？",
+      "subtitle": "用程式定義未來 / 國立臺南大學資訊工程學系"
+    },
+    {
+      "scene_id": 2,
+      "time_range": "5-15",
+      "purpose": "Introduction",
+      "narration": "歡迎來到國立臺南大學資訊工程學系。在這裡，我們提供最完善的教學環境，從軟體設計到硬體實作，全面啟航。",
+      "subtitle": "歡迎來到南大資工 / 理論與實務並重的學習環境"
+    },
+    {
+      "scene_id": 3,
+      "time_range": "15-30",
+      "purpose": "Core Features",
+      "narration": "不只是寫程式！從人工智慧、大數據分析，到物聯網與影像處理。多元的專業領域，讓你親手將創意轉化為現實的科技應用。",
+      "subtitle": "涵蓋AI、大數據、物聯網、影像處理 / 多元領域激發你的無限潛能"
+    },
+    {
+      "scene_id": 4,
+      "time_range": "30-45",
+      "purpose": "Development",
+      "narration": "透過核心的專題製作與團隊合作，我們一起在學術競賽中磨練實力。在教授與學長的帶領下，學會解決真實世界的科技挑戰。",
+      "subtitle": "核心專題實作與團隊合作 / 在競賽與研究中累積實戰力"
+    },
+    {
+      "scene_id": 5,
+      "time_range": "45-55",
+      "purpose": "Campus Life",
+      "narration": "溫馨的實驗室氛圍、豐富的討論空間。在這裡，學習不孤單，同儕與師生並肩作戰，共同營造最正向的資訊專業態度。",
+      "subtitle": "實驗室溫馨氛圍與跨域討論 / 師生同儕並肩作戰"
+    },
+    {
+      "scene_id": 6,
+      "time_range": "55-60",
+      "purpose": "Call to Action",
+      "narration": "點燃你的科技夢想。歡迎加入國立臺南大學資訊工程學系，與我們一同驅動世界！",
+      "subtitle": "國立臺南大學資訊工程學系 / 期待你的加入"
+    }
+  ]
+}
