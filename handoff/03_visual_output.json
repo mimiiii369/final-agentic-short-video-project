@@ -1,0 +1,55 @@
+{
+  "project_title": "NUTN CSIE 60-second promotional video",
+  "visual_style": "現代科技感、流暢剪輯、實地校園取景",
+  "recommended_resolution": "1080p (1920x1080), 30fps",
+  "visual_scenes": [
+    {
+      "scene_id": 1,
+      "time_range": "0-5",
+      "shot_type": "特寫到中景 (Close-up to Medium Shot)",
+      "visual_description": "快速切換：學生雙手在鍵盤上敲擊程式碼的特寫，接著切換到Arduino或物聯網開發板上LED燈閃爍的畫面。",
+      "b_roll_suggestions": ["筆電螢幕上的程式碼縮時", "電路板特寫"],
+      "onscreen_text": "用程式定義未來"
+    },
+    {
+      "scene_id": 2,
+      "time_range": "5-15",
+      "shot_type": "廣角到中景 (Wide Shot to Medium Shot)",
+      "visual_description": "國立臺南大學校園外觀或資工系館大樓正面的空拍/微仰角鏡頭，隨後切換到學生走入乾淨明亮教室的畫面。",
+      "b_roll_suggestions": ["南大校園正門或系館招牌", "學生背著書包走進系館"],
+      "onscreen_text": "歡迎來到南大資工"
+    },
+    {
+      "scene_id": 3,
+      "time_range": "15-30",
+      "shot_type": "中景到特寫 (Medium Shot to Close-up)",
+      "visual_description": "學生坐在電腦前操作AI模型訓練介面、大數據圖表或影像處理軟體的側寫。鏡頭帶到螢幕上的成果與學生專注的表情。",
+      "b_roll_suggestions": ["AI圖表動態畫面", "螢幕上的點雲或影像處理成果"],
+      "onscreen_text": "涵蓋AI、大數據、物聯網、影像處理"
+    },
+    {
+      "scene_id": 4,
+      "time_range": "30-45",
+      "shot_type": "雙人/三人中景 (Group Medium Shot)",
+      "visual_description": "幾位同學圍在白板或專題成品前激烈討論、指點螢幕，教授或學長在旁點頭指導、親切互動的畫面。",
+      "b_roll_suggestions": ["小組在白板上畫架構圖", "專題成果展示動作"],
+      "onscreen_text": "核心專題實作與團隊合作"
+    },
+    {
+      "scene_id": 5,
+      "time_range": "45-55",
+      "shot_type": "移動中景 (Tracking Medium Shot)",
+      "visual_description": "鏡頭穿過溫馨的資工系實驗室，拍到同儕之間互相拍肩鼓勵、輕鬆討論報告或共同debug後相視而笑的溫暖氛圍。",
+      "b_roll_suggestions": ["實驗室環境側拍", "同儕輕鬆討論的歡笑畫面"],
+      "onscreen_text": "實驗室溫馨氛圍與跨域討論"
+    },
+    {
+      "scene_id": 6,
+      "time_range": "55-60",
+      "shot_type": "定格全景 (Static Full Shot)",
+      "visual_description": "所有參與拍攝的學生在系館前向鏡頭揮手微笑，畫面最後淡出並帶出「國立臺南大學資訊工程學系」的正式校徽字體與官方網址。",
+      "b_roll_suggestions": ["學生團體大合照動作", "定格帶系徽文字"],
+      "onscreen_text": "國立臺南大學資訊工程學系 期待你的加入"
+    }
+  ]
+}
