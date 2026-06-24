@@ -1,0 +1,50 @@
+{
+  "project_title": "NUTN CSIE 60-second promotional video",
+  "target_audience": ["高中生", "大一新生", "家長"],
+  "core_message": "國立臺南大學資訊工程學系：理論與實務並重，開啟你的AI與資工未來。",
+  "video_length_seconds": 60,
+  "scene_outline": [
+    {
+      "scene_id": 1,
+      "time_range": "0-5",
+      "purpose": "Opening Hook (吸引注意)",
+      "theme_focus": "資訊科技與未來的連結",
+      "asset_policy": "self-made or openly licensed materials only"
+    },
+    {
+      "scene_id": 2,
+      "time_range": "5-15",
+      "purpose": "Introduction (系所定位)",
+      "theme_focus": "國立臺南大學資訊工程學系環境與核心領域",
+      "asset_policy": "self-made or openly licensed materials only"
+    },
+    {
+      "scene_id": 3,
+      "time_range": "15-30",
+      "purpose": "Core Features (學習特色)",
+      "theme_focus": "程式設計、AI、網路與系統實作特色",
+      "asset_policy": "self-made or openly licensed materials only"
+    },
+    {
+      "scene_id": 4,
+      "time_range": "30-45",
+      "purpose": "Development (團隊與專題)",
+      "theme_focus": "專題製作、學術競賽與團隊合作氛圍",
+      "asset_policy": "self-made or openly licensed materials only"
+    },
+    {
+      "scene_id": 5,
+      "time_range": "45-55",
+      "purpose": "Campus Life (師生互動)",
+      "theme_focus": "實驗室討論與正向學習生活氛圍",
+      "asset_policy": "self-made or openly licensed materials only"
+    },
+    {
+      "scene_id": 6,
+      "time_range": "55-60",
+      "purpose": "Call to Action (結尾收束)",
+      "theme_focus": "歡迎報考與加入南大資工",
+      "asset_policy": "self-made or openly licensed materials only"
+    }
+  ]
+}
