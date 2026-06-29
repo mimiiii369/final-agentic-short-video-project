@@ -17,10 +17,10 @@
 
 ## 專案目錄結構說明
 本儲存庫嚴格依照規範組織，各項評分證據路徑如下：
-* **專案結案報告**：`report/Final_Report_GroupXX.pdf`
-* **Agent 角色設定**：`agents/` (包含 Planner, Script, Visual, Reviewer 等設定)[cite: 1]
-* **結構化交接資料**：`handoff/` (各階段傳遞的 JSON 檔案)[cite: 1]
-* **執行紀錄日誌**：`traces/execution_trace.md`[cite: 1]
-* **最終短影片成果**：`outputs/final_video.mp4` (55-65秒，含旁白與字幕)[cite: 1]
-* **素材來源與授權**：`outputs/asset_sources.md`[cite: 1]
-* **Baseline 對比實驗**：`baseline/single_agent_baseline.md`[cite: 1]
+* **專案結案報告**：`report/Final_Report.pdf`
+* **Agent 角色設定**：`agents/` (包含 Planner, Script, Visual, Reviewer 等設定)
+* **結構化交接資料**：`handoff/` (各階段傳遞的 JSON 檔案)
+* **執行紀錄日誌**：`traces/execution_trace.md`
+* **最終短影片成果**：`outputs/final_video.mp4` (55-65秒，含旁白與字幕)
+* **素材來源與授權**：`outputs/asset_sources.md`
+* **Baseline 對比實驗**：`baseline/single_agent_baseline.md`
